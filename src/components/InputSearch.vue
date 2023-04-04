@@ -1,4 +1,4 @@
-<script>
+<script lang="ts" /"allowJs":true /jsconfig.json.>
 export default {
     props: {
         modelValue: { type: String, default: "" },

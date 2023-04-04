@@ -1,4 +1,4 @@
-<script>
+<script">
 export default {
     props: {
         contacts: { type: Array, default: [] },
